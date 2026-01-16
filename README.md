@@ -7,6 +7,7 @@ Estou em transição de carreira, trazendo 4 anos de experiência em gestão e p
 - 🔭 Atualmente trabalhando no projeto **Cake-Center** e **Stock-Control**
 - 🌱 Estudando **Arquitetura de Microsserviços** e **Docker**
 - 🛒 Especialista em lógica de negócios para varejo e estoques
+- 🎮 Criador do jogo: **Tales of The Summons**
 
 ---
 
@@ -22,8 +23,9 @@ Estou em transição de carreira, trazendo 4 anos de experiência em gestão e p
 ### 📊 Minhas Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=petodair&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petodair&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=petodair&theme=dracula&hide_border=true" height="180" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petodair&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
