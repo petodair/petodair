@@ -20,16 +20,6 @@ Estou em transição de carreira, trazendo 4 anos de experiência em gestão e p
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=petodair&theme=dracula&hide_border=true" height="180" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petodair&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Contato
 
 <div align="left">
