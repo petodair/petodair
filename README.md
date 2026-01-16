@@ -21,7 +21,10 @@ Estou em transição de carreira, trazendo 4 anos de experiência em gestão e p
 
 ### 📊 Minhas Estatísticas
 
-<img src="https://github.com/petodair/petodair/raw/output/github-contribution-grid-snake-dark.svg" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=petodair&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petodair&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+</div>
 
 ---
 
