@@ -22,8 +22,7 @@ Estou em transição de carreira, trazendo 4 anos de experiência em gestão e p
 ### 📊 Minhas Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
