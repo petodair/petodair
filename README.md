@@ -21,9 +21,7 @@ Estou em transição de carreira, trazendo 4 anos de experiência em gestão e p
 
 ### 📊 Minhas Estatísticas
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://github.com/petodair/petodair/raw/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
